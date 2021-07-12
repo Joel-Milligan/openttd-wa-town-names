@@ -4,4 +4,7 @@
 # GRF Metadata
 STR_GRF_NAME        :Western Australia Town Names
 STR_GRF_DESCRIPTION :List of town names from Western Australia
+STR_GRF_URL         :https://github.com/Joel-Milligan/openttd-wa-town-names
+
+# GRF Data
 STR_MENU            :Western Australian
