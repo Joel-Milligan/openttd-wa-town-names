@@ -1,0 +1,7 @@
+##grflangid 0x01
+# This is the English language file
+
+# GRF Metadata
+STR_GRF_NAME        :Western Australia Town Names
+STR_GRF_DESCRIPTION :List of town names from Western Australia
+STR_MENU            :Western Australian
