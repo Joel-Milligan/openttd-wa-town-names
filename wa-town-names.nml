@@ -41,7 +41,7 @@ town_names (WA_TOWNS) {
     text ("Exmouth", 1),
     text ("Fitzroy Crossing", 1),
     text ("Forrest", 1),
-    text ("Gascoyne Juntion", 1),
+    text ("Gascoyne Junction", 1),
     text ("Geraldton", 1),
     text ("Gracetown", 1),
     text ("Halls Creek", 1),
